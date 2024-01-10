@@ -7,7 +7,7 @@
 
 - 🔭 I have worked on **Sign Language Detector**
 
-- 📝 I regularly write articles on [Discord server named as simplyML](Discord server named as simplyML)
+- 📝 I regularly write articles on Discord server named as **simplyML**
 
 - 💬 Ask me about **AI, ML or Python**
 
